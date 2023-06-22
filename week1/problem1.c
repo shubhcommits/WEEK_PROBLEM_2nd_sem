@@ -1,4 +1,5 @@
 // Consider a scenario with 'T' test cases. Hence, for each test case 'ti', let there be any positive number 'n'. Since, factorial of a number 'n' can be computed through the following formula:
+// Find a value, named as 'result', by adding all the digits received through a factorial of a number 'n'.
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
